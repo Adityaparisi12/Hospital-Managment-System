@@ -10,7 +10,7 @@ export default function About() {
         </h1>
         
         <p className="about-description">
-          The Hospital Management System is a comprehensive solution designed to streamline 
+          The Clinic Management System is a comprehensive solution designed to streamline 
           healthcare operations and improve patient care. Our system provides integrated tools 
           for administrators, doctors, and patients.
         </p>
@@ -38,7 +38,7 @@ export default function About() {
 
         <div className="about-footer">
           <p className="about-footer-text">
-            © 2026 Hospital Management System. All rights reserved.
+            © 2026 Clinic Management System. All rights reserved.
           </p>
         </div>
       </div>

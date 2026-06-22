@@ -24,7 +24,7 @@ export default function DoctorNavBar() {
     <div>
       <div className="doctor-navbar">
         <nav>
-          <div className="nav-brand">👨‍⚕️ HMS Doctor</div>
+          <div className="nav-brand">👨‍⚕️ CMS Doctor</div>
           <div className="nav-links">
             <Link to="/doctorhome">Dashboard</Link>
             <Link to="/doctorprofile">Profile</Link>

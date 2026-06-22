@@ -37,7 +37,7 @@ export default function PatientNavBar() {
     <div>
       <div className="patient-navbar">
         <nav>
-          <div className="nav-brand">🏥 HMS Patient Portal</div>
+          <div className="nav-brand">🏥 CMS Patient Portal</div>
           <div className="nav-links">
             <Link to="/patienthome">Dashboard</Link>
             <Link to="/patientappointments">Appointments</Link>

@@ -77,7 +77,7 @@ export default function AdminLogin()
       <div className="admin-form">
         <div className="text-center mb-3">
           <h2 className="admin-login-title">🏥 Admin Login</h2>
-          <p className="admin-login-subtitle">Hospital Management System</p>
+          <p className="admin-login-subtitle">Clinic Management System</p>
         </div>
         
         {message && <div className="alert alert-success">{message}</div>}

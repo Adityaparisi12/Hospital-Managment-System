@@ -22,7 +22,7 @@ export default function AdminNavBar() {
     <div>
       <div className="admin-navbar">
         <nav>
-          <div className="nav-brand">🏥 HMS Admin</div>
+          <div className="nav-brand">🏥 CMS Admin</div>
           <div className="nav-links">
             <Link to="/adminhome">Dashboard</Link>
             <Link to="/admindoctor">Doctors</Link>

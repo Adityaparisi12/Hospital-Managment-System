@@ -61,7 +61,7 @@ export default function DoctorLogin() {
       <div className="doctor-form">
         <div className="text-center mb-3">
           <h2 className="doctor-login-title">👨‍⚕️ Doctor Login</h2>
-          <p className="doctor-login-subtitle">Hospital Management System</p>
+          <p className="doctor-login-subtitle">Clinic Management System</p>
         </div>
         
         {message && <div className="alert alert-success">{message}</div>}

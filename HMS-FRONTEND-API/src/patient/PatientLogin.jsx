@@ -79,7 +79,7 @@ export default function PatientLogin()
       <div className="patient-form">
         <div className="text-center mb-3">
           <h2 className="patient-login-title">🏥 Patient Login</h2>
-          <p className="patient-login-subtitle">Hospital Management System</p>
+          <p className="patient-login-subtitle">Clinic Management System</p>
         </div>
         
         {message && <div className="alert alert-success">{message}</div>}

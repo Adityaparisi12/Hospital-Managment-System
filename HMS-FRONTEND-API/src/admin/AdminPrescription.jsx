@@ -69,7 +69,7 @@ export default function AdminPrescription() {
       <div className="admin-header">
         <h1>📋 Prescription Management</h1>
         <p style={{ marginTop: '8px', opacity: 0.9 }}>
-          Track every prescription issued across the hospital, filter them instantly, and keep audit-ready records.
+          Track every prescription issued across the clinic, filter them instantly, and keep audit-ready records.
         </p>
       </div>
 

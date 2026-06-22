@@ -7,7 +7,7 @@ export default function Home() {
     <div className="home-container">
       <div className="home-content">
         <h1 className="home-title">
-          Welcome to Hospital Management System
+          Welcome to Clinic Management System
         </h1>
         <p className="home-subtitle">
           Streamlining healthcare management for administrators, doctors, and patients
@@ -24,7 +24,7 @@ export default function Home() {
 
           <div className="home-card">
             <h3 className="home-card-title">🧑‍💼 For Admin</h3>
-            <p className="home-card-description">Oversee hospital operations</p>
+            <p className="home-card-description">Oversee clinic operations</p>
             <Link to="/adminlogin" className="home-card-link">
               Admin Login
             </Link>

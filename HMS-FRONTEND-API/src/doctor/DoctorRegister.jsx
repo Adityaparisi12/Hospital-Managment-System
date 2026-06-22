@@ -134,7 +134,7 @@ export default function DoctorRegister() {
       <div className="doctor-form" style={{ maxWidth: '600px' }}>
         <div className="text-center mb-3">
           <h2 className="doctor-login-title">👨‍⚕️ Doctor Registration</h2>
-          <p className="doctor-login-subtitle">Join our Hospital Management System</p>
+          <p className="doctor-login-subtitle">Join our Clinic Management System</p>
         </div>
         
         {message && <div className="alert alert-success">{message}</div>}

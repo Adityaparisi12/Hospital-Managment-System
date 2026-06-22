@@ -19,7 +19,7 @@ export default function MainNavBar() {
       <nav className="main-navbar">
         <div className="main-navbar-container">
           <Link to="/" className="main-navbar-logo">
-            🏥 Hospital Management
+            🏥 Clinic Management
           </Link>
           
           <div className="main-navbar-links">
